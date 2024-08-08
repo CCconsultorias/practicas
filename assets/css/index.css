@@ -1,0 +1,95 @@
+/* header */
+#header {
+    background-color: #ffde59;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+#logo{
+    width: 100px;
+    height: 100px;
+}
+
+/* Botones */
+.botones{
+    position: relative;
+    left: 70%;
+}
+
+#Inicio{
+
+}
+
+#Catalogo{
+
+}
+
+#Contacto{
+
+}
+
+/* body */
+
+/* carrousel */
+
+/* parrafos */
+.textos{
+    margin-right: 10%;
+    margin-left: 15%;
+    margin-top: 5%;
+    padding: 0%;  
+}
+
+#sobre_nosotros{
+    text-align: justify;
+    margin-right: 50%;
+}
+
+#img1{
+    position: relative;
+    bottom: 290px;
+    left: 600px;
+}
+
+#vision{
+    position: relative;
+    right: 100px;
+    text-align: justify;
+    margin-left: 50%;
+}
+
+#img2{
+    position: relative;
+    bottom: 260px;
+    left: 1px;
+}
+
+#mision{
+    text-align: justify;
+    margin-right: 50%;
+}
+
+#img3{
+    position: relative;
+    bottom: 260px;
+    left: 600px;
+}
+
+#valores{
+    text-align: justify;
+    margin-left: 50%;
+    position: relative;
+    right: 100px;
+}
+
+#img4{
+    position: relative;
+    bottom: 290px;
+    left: 1 px;
+}
+
+/* footer */
+#footer{
+    background-color: #ffde59;
+}
